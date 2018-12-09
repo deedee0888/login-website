@@ -1,0 +1,43 @@
+@media all and (min-width: 480px) {
+  .login {
+    padding: 60px 0;
+  }
+
+  .login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}
+
+.navigation {
+  background-color: rgb(204, 204, 204);
+}
+
+.logo {
+  font-size: 30px;
+  text-shadow: 1px 1px grey;
+}
+
+.btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  
+}
+
+.link {
+  color: black;
+}
+
+.link:hover {
+  text-decoration: none;
+}
+
+.image {
+  width: 100%;
+}
+
+.signup {
+  margin: 60px;
+  
+}
